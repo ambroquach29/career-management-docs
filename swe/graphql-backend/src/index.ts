@@ -14,6 +14,10 @@ const books = [
     title: 'City of Glass',
     author: 'Paul Auster',
   },
+  {
+    title: 'Mayhem',
+    author: 'Lady Gaga',
+  },
 ];
 
 const typeDefs = `#graphql
